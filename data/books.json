@@ -1,0 +1,28 @@
+{
+    "books": [
+      {
+        "id": "1",
+        "name": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "genre": "Fantasy",
+        "price": "12.99",
+        "publisher": "Houghton Mifflin"
+      },
+      {
+        "id": "2",
+        "name": "The Wings of Fire",
+        "author": "A.P.J. Abdul Kalama",
+        "genre": "Life",
+        "price": "12.99",
+        "publisher": "Houghton Mifflin"
+      },
+      {
+        "id": "3",
+        "name": "The Way I live",
+        "author": "Einstein",
+        "genre": "Slice of Life",
+        "price": "12.99",
+        "publisher": "Houghton Mifflin"
+      }
+    ]
+  }
